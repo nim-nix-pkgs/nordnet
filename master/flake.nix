@@ -11,6 +11,7 @@
   inputs.src-nordnet-master.ref   = "refs/heads/master";
   inputs.src-nordnet-master.owner = "ThomasTJdev";
   inputs.src-nordnet-master.repo  = "nim_nordnet_api";
+  inputs.src-nordnet-master.dir   = "";
   inputs.src-nordnet-master.type  = "github";
   
   inputs."nmqtt".owner = "nim-nix-pkgs";

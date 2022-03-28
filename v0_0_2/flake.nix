@@ -11,6 +11,7 @@
   inputs.src-nordnet-v0_0_2.ref   = "refs/tags/v0.0.2";
   inputs.src-nordnet-v0_0_2.owner = "ThomasTJdev";
   inputs.src-nordnet-v0_0_2.repo  = "nim_nordnet_api";
+  inputs.src-nordnet-v0_0_2.dir   = "";
   inputs.src-nordnet-v0_0_2.type  = "github";
   
   inputs."nmqtt".owner = "nim-nix-pkgs";
